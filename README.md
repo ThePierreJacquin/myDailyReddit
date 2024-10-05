@@ -2,7 +2,7 @@
 
 Access only a limited version of your reddit feeds, updated only once a day, to prevent doom scrolling without missing news you care about.
 
-Built with ❤️ by [ThePierreJacquin](https://github.com/ThePierreJacquin)
+Built by [ThePierreJacquin](https://github.com/ThePierreJacquin)
 
 ## What's this?
 
